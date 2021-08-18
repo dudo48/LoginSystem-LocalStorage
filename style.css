@@ -1,0 +1,25 @@
+body {
+    background-color: #24353f;
+}
+
+input,
+textarea {
+    background-color: transparent !important;
+    color: #ddd !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+::placeholder {
+    color: #ddd !important;
+}
+
+.input-container {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
